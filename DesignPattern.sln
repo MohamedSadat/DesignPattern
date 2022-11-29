@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projIterator", "projIterator\projIterator.csproj", "{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projIterator", "projIterator\projIterator.csproj", "{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projObserver", "projObserver\projObserver.csproj", "{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
