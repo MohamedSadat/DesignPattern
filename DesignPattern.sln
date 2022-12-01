@@ -5,7 +5,11 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projIterator", "projIterator\projIterator.csproj", "{73FB2F2C-A43B-43BE-AEA5-A739A7CA78EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projObserver", "projObserver\projObserver.csproj", "{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projObserver", "projObserver\projObserver.csproj", "{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "projStrategy", "projStrategy\projStrategy.csproj", "{35C02A5B-E5C9-49D3-8D24-25098FB8B470}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResp", "ChainOfResp\ChainOfResp.csproj", "{DF980BCB-BFFC-4E38-BEDE-7DA6DE70A51A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B27C9F0-FF4B-4DA4-9647-F6B0AD0DE3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C02A5B-E5C9-49D3-8D24-25098FB8B470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C02A5B-E5C9-49D3-8D24-25098FB8B470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C02A5B-E5C9-49D3-8D24-25098FB8B470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C02A5B-E5C9-49D3-8D24-25098FB8B470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF980BCB-BFFC-4E38-BEDE-7DA6DE70A51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF980BCB-BFFC-4E38-BEDE-7DA6DE70A51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF980BCB-BFFC-4E38-BEDE-7DA6DE70A51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF980BCB-BFFC-4E38-BEDE-7DA6DE70A51A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
